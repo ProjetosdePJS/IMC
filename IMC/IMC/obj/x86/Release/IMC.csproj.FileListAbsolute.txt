@@ -1,0 +1,7 @@
+C:\Users\mathou\Videos\Videos\Mean Age\Iron maiden\Nova pasta\IMC\IMC\bin\Release\IMC.exe
+C:\Users\mathou\Videos\Videos\Mean Age\Iron maiden\Nova pasta\IMC\IMC\bin\Release\IMC.pdb
+C:\Users\mathou\Videos\Videos\Mean Age\Iron maiden\Nova pasta\IMC\IMC\obj\x86\Release\IMC.Form1.resources
+C:\Users\mathou\Videos\Videos\Mean Age\Iron maiden\Nova pasta\IMC\IMC\obj\x86\Release\IMC.Properties.Resources.resources
+C:\Users\mathou\Videos\Videos\Mean Age\Iron maiden\Nova pasta\IMC\IMC\obj\x86\Release\IMC.csproj.GenerateResource.Cache
+C:\Users\mathou\Videos\Videos\Mean Age\Iron maiden\Nova pasta\IMC\IMC\obj\x86\Release\IMC.exe
+C:\Users\mathou\Videos\Videos\Mean Age\Iron maiden\Nova pasta\IMC\IMC\obj\x86\Release\IMC.pdb

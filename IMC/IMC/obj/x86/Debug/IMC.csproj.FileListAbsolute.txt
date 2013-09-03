@@ -1,0 +1,26 @@
+c:\users\ifsp\documents\visual studio 2010\Projects\IMC\IMC\bin\Debug\IMC.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\IMC\IMC\bin\Debug\IMC.pdb
+c:\users\ifsp\documents\visual studio 2010\Projects\IMC\IMC\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ifsp\documents\visual studio 2010\Projects\IMC\IMC\obj\x86\Debug\IMC.Form1.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\IMC\IMC\obj\x86\Debug\IMC.Properties.Resources.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\IMC\IMC\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ifsp\documents\visual studio 2010\Projects\IMC\IMC\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ifsp\documents\visual studio 2010\Projects\IMC\IMC\obj\x86\Debug\IMC.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\IMC\IMC\obj\x86\Debug\IMC.pdb
+C:\Users\mathou\Videos\Videos\Mean Age\Iron maiden\Nova pasta\IMC\IMC\obj\x86\Debug\IMC.exe
+C:\Users\mathou\Videos\Videos\Mean Age\Iron maiden\Nova pasta\IMC\IMC\obj\x86\Debug\IMC.pdb
+C:\Users\mathou\Videos\Videos\Mean Age\Iron maiden\Nova pasta\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\mathou\Videos\Videos\Mean Age\Iron maiden\Nova pasta\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\mathou\Videos\Videos\Mean Age\Iron maiden\Nova pasta\IMC\IMC\obj\x86\Debug\IMC.Form1.resources
+C:\Users\mathou\Videos\Videos\Mean Age\Iron maiden\Nova pasta\IMC\IMC\obj\x86\Debug\IMC.Properties.Resources.resources
+C:\Users\mathou\Videos\Videos\Mean Age\Iron maiden\Nova pasta\IMC\IMC\obj\x86\Debug\IMC.csproj.GenerateResource.Cache
+C:\Users\mathou\Videos\Videos\Mean Age\Iron maiden\Nova pasta\IMC\IMC\obj\x86\Debug\IMC.csprojResolveAssemblyReference.cache
+C:\Users\ifsp\Desktop\IMC\IMC\IMC\obj\x86\Debug\IMC.exe
+C:\Users\ifsp\Desktop\IMC\IMC\IMC\obj\x86\Debug\IMC.pdb
+C:\Users\ifsp\Desktop\IMC\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\ifsp\Desktop\IMC\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\ifsp\Desktop\IMC\IMC\IMC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ifsp\Desktop\IMC\IMC\IMC\obj\x86\Debug\IMC.Form1.resources
+C:\Users\ifsp\Desktop\IMC\IMC\IMC\obj\x86\Debug\IMC.Properties.Resources.resources
+C:\Users\ifsp\Desktop\IMC\IMC\IMC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ifsp\Desktop\IMC\IMC\IMC\obj\x86\Debug\GenerateResource.write.1.tlog
